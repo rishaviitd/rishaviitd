@@ -2,9 +2,8 @@
 <h3 align="left">A passionate AI/ML Developer from India, currently a third-year student at the Indian Institute of Technology, Delhi. Combining my love for artificial intelligence and machine learning with my enthusiasm for coding, I find joy in crunching numbers and crafting innovative solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/62c5e1c570a69bd637d2dcca/630e75c1f4d0027241aaa300_2.%20Product.png">
 
-- 👨‍💻 All of my projects are available at [https://rishaviitd.github.io/myportfolio/](https://rishaviitd.github.io/myportfolio/)
 
-- 📝 I regularly write articles on [https://medium.com/@rishav01iitd](https://medium.com/@rishav01iitd)
+- 📝 I sometimes write articles on [https://medium.com/@rishav01iitd](https://medium.com/@rishav01iitd)
 
 - 💬 Ask me about **Machine Learning and Artificial Intelligence**
 
