@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
-<h3 align="center">A passionate AI/ML Developer from India and currently a third year student at Indian Institute of Technology, Delhi</h3>
+<h3 align="right">A passionate AI/ML Developer from India and currently a third year student at Indian Institute of Technology, Delhi</h3>
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/62c5e1c570a69bd637d2dcca/630e75c1f4d0027241aaa300_2.%20Product.png">
 
 - 👨‍💻 All of my projects are available at [https://rishaviitd.github.io/myportfolio/](https://rishaviitd.github.io/myportfolio/)
